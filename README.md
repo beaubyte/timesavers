@@ -1,2 +1,3 @@
-# timesavers
-A website for a conceptual company that sells places in time
+the final project i had in a introductory webdev class i took
+
+all files are in the root directory because of a limitation with the online vm platform we used
