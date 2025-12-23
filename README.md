@@ -8,3 +8,6 @@ Timesavers is a website built for a TaaS (Time as a Service) company that sells 
 
 ### Deployment
 Copy files to your website content directory, ensuring that PHP has been enabled for your Apache web server.
+
+> Why are they no folders in the project structure?
+The virtual environment this project was built for didn't play well with folders, so it was easiest for demonstration to have all files in the root directory. In a final website design, the project would be refactored to include subdirectories.
